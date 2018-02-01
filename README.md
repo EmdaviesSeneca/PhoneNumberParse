@@ -12,5 +12,5 @@ Enter "npm install" <br>
 Once it has installed the dependancies, enter "node app". <br>
 When the terminal tells you the port number, the local server is online. <br>
 
-To use the API, visit either Localhost:3000/api/phonenumbers/parse/[Enter any test text/phone number here]  <br>
+To use the API, open your internet browser and visit either Localhost:3000/api/phonenumbers/parse/[Enter any test text/phone number here]  <br>
 or Localhost:3000/api/phonenumbers/parse/file to upload a file that includes phone numbers.
