@@ -3,6 +3,7 @@ RESTful api service using google's libphonenumber repo in javascript.
 
 # To Use:
 Ensure that you have node.js installed.
+<br>
 https://nodejs.org/en/
 From the command line, move to the root of the project folder.
 Enter "npm install"
